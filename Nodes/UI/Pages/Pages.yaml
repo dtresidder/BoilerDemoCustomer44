@@ -3313,13 +3313,13 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 850.0
+      Value: 910.0
     - Name: TopMargin
       Id: g=91ab5fe6313f607cbe66417db30a39a0
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 70.0
+      Value: 50.0
   - Name: TankWidget2
     Id: g=90d87b20ed0778a72de099264e84ee60
     Type: TankWidget
